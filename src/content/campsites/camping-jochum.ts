@@ -55,7 +55,7 @@ const campingJochum: CampsiteConfig = {
   hero: {
     aerial: {
       src: `${IMG}/gallery-f4c0efdd7f.webp`,
-      alt: "Camping Jochum: Stellplätze vor der Bergkulisse am Ortseingang von Riezlern",
+      alt: "Wanderstart direkt vom Camping Jochum: Gäste beim Aufbruch ins Kleinwalsertal mit Alpenkulisse im Hintergrund",
     },
   },
 
@@ -76,8 +76,8 @@ const campingJochum: CampsiteConfig = {
         title: "Wintercamping",
         text: "Eigener Trockenraum, Skiabstellraum und eine praktische Hundedusche machen Wintercamping hier richtig komfortabel.",
         image: {
-          src: `${IMG}/award-1b09af04e2.png`,
-          alt: "Sonnig verschneite Alpenlandschaft im Kleinwalsertal – Wintergefühle bei Camping Jochum",
+          src: `${IMG}/gallery-8bce57cba1.webp`,
+          alt: "Wohnmobil im verschneiten Kleinwalsertal – Wintercamping direkt auf dem Camping Jochum",
         },
       },
     ],
